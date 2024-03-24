@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Chips",
+        "price": 1.00,
+        "id": "4C6B33E2-94B8-48C9-A29B-AEF1B02BA457",
+        "imageName": "chips"
+    },
+    {
+        "name": "Water",
+        "price": 1.19,
+        "id": "93AE5429-5552-4C2F-93A8-80BBC0D48949",
+        "imageName": "water"
+    },
+    {
+        "name": "Pizza",
+        "price": 2.99,
+        "id": "20DC313B-215A-49C2-B5E3-BE4EEDF15EDF",
+        "imageName": "pizza"
+    },
+    {
+        "name": "Chocolate",
+        "price": 0.99,
+        "id": "43314521-8F38-46B1-A508-2EB2EFA1A416",
+        "imageName": "chocolate"
+    },
+    {
+        "name": "Peanuts",
+        "price": 1.99,
+        "id": "262A3B2C-31F0-4272-9170-F085EEB8BB1F",
+        "imageName": "peanuts"
+    },
+    {
+        "name": "Soda",
+        "price": 1.49,
+        "id": "670D5708-EA07-4661-B061-571EA41FF9DC",
+        "imageName": "soda"
+    },
+    {
+        "name": "Hotdog",
+        "price": 3.19,
+        "id": "56DF79A2-19C9-4E89-8FDB-20408C761869",
+        "imageName": "hotdog"
+    }
+]
